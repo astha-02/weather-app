@@ -1,0 +1,26 @@
+{
+  "name": "simple-node-js-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error :  no test specified\\\" && exit \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astha-02/nodejs-weather.git"
+  },
+  "author": "astha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astha-02/nodejs-weather/issues"
+  },
+  "homepage": "https://github.com/astha-02/nodejs-weather#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "yargs": "^13.2.2"
+  }
+}
